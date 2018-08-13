@@ -1,0 +1,16 @@
+{
+  "backblaze": {
+    "accoundId": "my-account-id",
+    "applicationKey": "my-application-key",
+    "bucketid": "my-bucked-id"
+  },
+  "ftp": {
+    "username": "",
+    "password": "",
+    "ip": "127.0.0.1",
+    "port": "21",
+    "keyFile": "",
+    "certFile": "",
+    "caFiles": ""
+  }
+}

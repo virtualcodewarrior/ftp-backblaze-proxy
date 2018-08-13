@@ -1,0 +1,30 @@
+{
+  "name": "ftp-backblaze-proxy",
+  "version": "0.1.0",
+  "description": "FTP proxy to backblaze",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualcodewarrior/ftp-backblaze-proxy.git"
+  },
+  "keywords": [
+    "ftp",
+    "backblaze"
+  ],
+  "author": "Rodney Draaisma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualcodewarrior/ftp-backblaze-proxy/issues"
+  },
+  "homepage": "https://github.com/virtualcodewarrior/ftp-backblaze-proxy#readme",
+  "dependencies": {
+    "backblaze-b2": "^1.0.4",
+    "ftpd": "git+https://github.com/sstur/nodeftpd.git"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
+}
