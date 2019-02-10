@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/virtualcodewarrior/ftp-backblaze-proxy#readme",
   "dependencies": {
-    "backblaze-b2": "^1.0.4",
-    "ftpd": "git+https://github.com/sstur/nodeftpd.git"
+    "backblaze-b2": "^1.2.0",
+    "ftpd": "^0.2.15"
   },
   "devDependencies": {
-    "eslint": "^5.3.0"
+    "eslint": "^5.13.0"
   }
 }
